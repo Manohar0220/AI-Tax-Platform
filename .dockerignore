@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-ssr
+test-results
+playwright-report
+blob-report
+playwright/.cache
+.git
+.gitignore
+.vercel
+*.log
+.DS_Store
+.vscode
+e2e
