@@ -1,4 +1,4 @@
-# AI Tax Platform
+# AI Tax Platform - Just a prototype, everything is mocked (Data, responses, AI screening everything is hardcoded) in this Platform
 
 ## 1. Platform Overview
 
